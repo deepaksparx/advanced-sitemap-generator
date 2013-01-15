@@ -3,7 +3,7 @@
 Plugin Name: Advanced Sitemap Generator
 Plugin URI: http://www.csschopper.com/
 Description: powerfull plugin to show all your pages and post on front end in a sitemap.
-Version: 1.0.1
+Version: 1.0.2
 Author: Deepak Tripathi
 Author URI: http://www.csschopper.com/
 Author Email: deepak@sparxtechnologies.com
@@ -30,10 +30,10 @@ function sitemapfunction()
   </p> </br></br>
    <div>
        <h2>Screenshot1</h2>
-  <div><img src="<?php echo plugins_url() ?>/sitemap-generator/images/screenshot-1.jpg" width="1100"/></div>
+  <div><img src="<?php echo plugins_url() ?>/advanced-sitemap-generator/images/screenshot-1.jpg" width="1100"/></div>
    </br><hr></br>
   <h2>Screenshot2</h2>
-  <div><img src="<?php echo plugins_url() ?>/sitemap-generator/images/screenshot-2.jpg" width="1100"/></div>
+  <div><img src="<?php echo plugins_url() ?>/advanced-sitemap-generator/images/screenshot-2.jpg" width="1100"/></div>
   </br><hr></br></br>
   </div>
 
