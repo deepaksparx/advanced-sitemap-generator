@@ -1,5 +1,5 @@
 === Advanced Sitemap Generator ===
-Contributors: deepaktripathi19,sparxit 
+Contributors: sparxit,deepaktripathi19 
 Tags: sitemap, simple sitemap, page sitemap, exclude category posts, posts sitemap, sitemap shortcode, shortcode
 Requires at least: 2.9.1
 Tested up to: 3.5
