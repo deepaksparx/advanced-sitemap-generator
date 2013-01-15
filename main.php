@@ -30,10 +30,10 @@ function sitemapfunction()
   </p> </br></br>
    <div>
        <h2>Screenshot1</h2>
-  <div><img src="<?php echo plugins_url() ?>/sitemap-generator/images/screenshot-1.jpg" width="1100"/></div>
+  <div><img src="<?php echo plugins_url() ?>/advanced-sitemap-generator/images/screenshot-1.jpg" width="1100"/></div>
    </br><hr></br>
   <h2>Screenshot2</h2>
-  <div><img src="<?php echo plugins_url() ?>/sitemap-generator/images/screenshot-2.jpg" width="1100"/></div>
+  <div><img src="<?php echo plugins_url() ?>/advanced-sitemap-generator/images/screenshot-2.jpg" width="1100"/></div>
   </br><hr></br></br>
   </div>
 
