@@ -21,4 +21,7 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 put shortcode([sitemap]) on your page/post on backend. for more details go to setting page of plugin on admin panel.
 
+== Screenshots ==
 
+1. screenshot-1.jpg
+2. screenshot-2.jpg
