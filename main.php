@@ -90,11 +90,12 @@ function sitemap_function($atts)
 	);
 	$display =  '<div class="manage-pagepost"><ul class="manage_page"><h3>Pages</h3>';
 	$display .= wp_list_pages($args);
-	$display .= '</ul><ul class="manage_post">';
+	$display .= '</ul>';
 	if(isset($atts['showpost']))
 	$show=$atts['showpost'];
 	if($show != 'no')
 	{
+            $display.='<ul class="manage_post">';
 		if(isset($atts['excludecat']))
 		$arr=explode(',',$atts['excludecat']);
 		for($i=0;$i<count($arr);$i++)
@@ -124,8 +125,9 @@ function sitemap_function($atts)
 		endwhile;
 		endif;
 		wp_reset_query();
-		$display .= '</ul></div>';
+		$display .= '</ul>';
 	}
+        $display.='</div>';
 	return $display;
 
 }
