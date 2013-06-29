@@ -3,7 +3,7 @@
  Plugin Name: Advanced Sitemap Generator
  Plugin URI: http://www.csschopper.com/
  Description: powerfull plugin to show all your pages and post on front end in a sitemap.
- Version: 1.0.4
+ Version: 1.0.5
  Author: Deepak Tripathi
  Author URI: http://www.csschopper.com/
  Author Email: deepak@sparxtechnologies.com
