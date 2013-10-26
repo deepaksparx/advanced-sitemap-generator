@@ -2,8 +2,8 @@
 Contributors: sparxit,deepaktripathi19 
 Tags: sitemap, simple sitemap, page sitemap, exclude category posts, posts sitemap, sitemap shortcode, shortcode
 Requires at least: 2.9.1
-Tested up to: 3.5.2
-Stable tag: 1.0.5
+Tested up to: 3.7
+Stable tag: 1.1.0
 
 This plugin easily display you post and page through shortcode on front end.You just need to put shortcode([sitemap]) on your page or post.
 
